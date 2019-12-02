@@ -1,0 +1,188 @@
+Action,Category,Geo_Coordinates,Label,Location,Network,UserId,engaged_session_event,firebase_conversion,firebase_event_origin,firebase_screen_class,firebase_screen_id,ga_session_id,ga_session_number
+App_Open,App,"12.912157,77.648735",DashboardOnionActivity,"Unknown,Unknown",WIFI,5db03bef33a2a1c595c1853d,1,1,app,,,1574941512,66
+ScanPay_Button_Press,Payment_ScanPay,"12.904184,77.64834",3420.68994140625 - 3520.68994140625,"Unknown,Unknown",4G,5db03bef33a2a1c595c1853d,1,1,app,DashboardOnionActivity,-3733851752218211690,1574941512,66
+Pay_Remarks_Fill,Payment_ScanPay,"12.904184,77.64834",,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853d,1,1,app,PayOnionActivity,-3733851752218211688,1574941512,66
+Pay_Button_Press,Payment_ScanPay,"12.904184,77.64834",114.99999999999999 - 215.0,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853d,1,1,app,PayOnionActivity,-3733851752218211688,1574941512,66
+Txn_Status_Change,Payment_ScanPay,"12.904184,77.64834",processing,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853d,1,1,app,TransactionConfirmOnionActivity,-3733851752218211687,1574941512,66
+Txn_Status_Change,Payment_ScanPay,"12.904184,77.64834",processing,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853d,1,1,app,TransactionConfirmOnionActivity,-3733851752218211687,1574941512,66
+Txn_Status_Change,Payment_ScanPay,"12.904184,77.64834",success,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853d,1,1,app,TransactionConfirmOnionActivity,-3733851752218211687,1574941512,66
+Txn_Status_Button_Press,Payment_ScanPay,"12.904184,77.64834",,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853d,1,1,app,TransactionConfirmOnionActivity,-3733851752218211687,1574941512,66
+App_Open,App,"12.935067,77.665245",OnionOnBoardActivity,"Bellandur,Bengaluru",WIFI,Unknown,1,1,app,,,1574908977,1
+LetsGo_Button_Press,Onboarding_ProductInfo,"12.935067,77.665245",,"Bellandur,Bengaluru",WIFI,Unknown,1,1,app,,,1574908977,1
+Login,Onboarding_PhoneVerification,"12.933046,77.69827",AutoSuggest,"null,Bengaluru",WIFI,Unknown,1,1,app,,,1574908977,1
+LoginResponse,Onboarding_PhoneVerification,"12.933046,77.69827",Success,"null,Bengaluru",WIFI,Unknown,1,1,app,,,1574908977,1
+Login,Onboarding_PhoneVerification,"12.933046,77.69827",ManualEnter,"null,Bengaluru",WIFI,Unknown,1,1,app,OnionLoginActivity,5351698071746983830,1574908977,1
+LoginResponse,Onboarding_PhoneVerification,"12.933046,77.69827",Success,"null,Bengaluru",WIFI,Unknown,1,1,app,,,1574908977,1
+Unlock_Button_Press,Onboarding_Offer,"12.933046,77.69827",Start,"null,Bengaluru",WIFI,5db034f033a2a1c595c18525,1,1,app,CreditApplyOnionActivity,5351698071746983837,1574908977,1
+Unlock_Button_Press,Onboarding_Offer,"12.933046,77.69827",Loan Success,"null,Bengaluru",WIFI,5db034f033a2a1c595c18525,1,1,app,CreditApplyOnionActivity,5351698071746983837,1574908977,1
+Unlock_Button_Press,Onboarding_Offer,"12.933046,77.69827",Bank Success,"null,Bengaluru",WIFI,5db034f033a2a1c595c18525,1,1,app,CreditApplyOnionActivity,5351698071746983837,1574908977,1
+App_Open,App,"12.935067,77.665245",OnionOnBoardActivity,"Bellandur,Bengaluru",WIFI,Unknown,1,1,app,,,1574924528,2
+LetsGo_Button_Press,Onboarding_ProductInfo,"12.935067,77.665245",,"Bellandur,Bengaluru",WIFI,Unknown,1,1,app,,,1574924528,2
+Login,Onboarding_PhoneVerification,"12.904092,77.648476",AutoSuggest,"HSR Layout,Bengaluru",WIFI,Unknown,1,1,app,,,1574924528,2
+LoginResponse,Onboarding_PhoneVerification,"12.904092,77.648476",Success,"HSR Layout,Bengaluru",WIFI,Unknown,1,1,app,,,1574924528,2
+Unlock_Button_Press,Onboarding_Offer,"12.904092,77.648476",Start,"HSR Layout,Bengaluru",WIFI,5db034f033a2a1c595c18525,1,1,app,CreditApplyOnionActivity,-5313159498784657631,1574924528,2
+Unlock_Button_Press,Onboarding_Offer,"12.904092,77.648476",Loan Success,"HSR Layout,Bengaluru",WIFI,5db034f033a2a1c595c18525,1,1,app,CreditApplyOnionActivity,-5313159498784657631,1574924528,2
+Unlock_Button_Press,Onboarding_Offer,"12.904092,77.648476",Bank Success,"HSR Layout,Bengaluru",WIFI,5db034f033a2a1c595c18525,1,1,app,,,1574924528,2
+App_Open,App,"12.904092,77.648476",KYCOnionActivity,"HSR Layout,Bengaluru",WIFI,5db034f033a2a1c595c18525,1,1,app,,,1574936017,4
+App_Open,App,"12.89216,80.19783",DashboardOnionActivity,"Perumbakkam,Chennai",4G,5dc7872b50026bf21d01daed,1,1,app,,,1574910338,36
+ScanPay_Button_Press,Payment_ScanPay,"12.995841,80.193375",1816.0 - 1916.0,"Alandur,Chennai",4G,5dc7872b50026bf21d01daed,1,1,app,DashboardOnionActivity,-4844538681456878110,1574910338,36
+Pay_Remarks_Fill,Payment_ScanPay,"12.995841,80.193375",,"Alandur,Chennai",4G,5dc7872b50026bf21d01daed,1,1,app,PayOnionActivity,-4844538681456878108,1574910338,36
+Pay_Button_Press,Payment_ScanPay,"12.995841,80.193375",168.0 - 268.0,"Alandur,Chennai",4G,5dc7872b50026bf21d01daed,1,1,app,PayOnionActivity,-4844538681456878108,1574910338,36
+Txn_Status_Change,Payment_ScanPay,"12.995841,80.193375",processing,"Alandur,Chennai",4G,5dc7872b50026bf21d01daed,1,1,app,TransactionConfirmOnionActivity,-4844538681456878107,1574910338,36
+Txn_Status_Change,Payment_ScanPay,"12.995841,80.193375",processing,"Alandur,Chennai",4G,5dc7872b50026bf21d01daed,1,1,app,TransactionConfirmOnionActivity,-4844538681456878107,1574910338,36
+Txn_Status_Change,Payment_ScanPay,"12.995841,80.193375",success,"Alandur,Chennai",4G,5dc7872b50026bf21d01daed,1,1,app,TransactionConfirmOnionActivity,-4844538681456878107,1574910338,36
+Txn_Status_Button_Press,Payment_ScanPay,"12.995841,80.193375",,"Alandur,Chennai",4G,5dc7872b50026bf21d01daed,1,1,app,TransactionConfirmOnionActivity,-4844538681456878107,1574910338,36
+App_Open,App,"12.906392,77.64892",DashboardOnionActivity,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853b,1,1,app,,,1574919253,25
+ScanPay_Button_Press,Payment_ScanPay,"12.904115,77.64837",3778.849999999999 - 3878.849999999999,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853b,1,1,app,DashboardOnionActivity,771747232137562629,1574919253,25
+Pay_Button_Press,Payment_ScanPay,"12.904115,77.64837",45.0 - 145.0,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853b,1,1,app,PayOnionActivity,771747232137562631,1574919253,25
+Txn_Status_Change,Payment_ScanPay,"12.904115,77.64837",processing,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853b,1,1,app,TransactionConfirmOnionActivity,771747232137562632,1574919253,25
+Txn_Status_Change,Payment_ScanPay,"12.904115,77.64837",processing,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853b,1,1,app,TransactionConfirmOnionActivity,771747232137562632,1574919253,25
+Txn_Status_Change,Payment_ScanPay,"12.904115,77.64837",success,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853b,1,1,app,TransactionConfirmOnionActivity,771747232137562632,1574919253,25
+Txn_Status_Button_Press,Payment_ScanPay,"12.904115,77.64837",,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853b,1,1,app,TransactionConfirmOnionActivity,771747232137562632,1574919253,25
+App_Open,App,"12.904115,77.64837",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db03bef33a2a1c595c1853b,1,1,app,,,1574934734,26
+ScanPay_Button_Press,Payment_ScanPay,"12.904112,77.648346",3733.8499999999995 - 3833.8499999999995,"HSR Layout,Bengaluru",WIFI,5db03bef33a2a1c595c1853b,1,1,app,DashboardOnionActivity,6080861765612167875,1574934734,26
+TransferBank_Button_Press,Payment_TransferBank,"12.904112,77.648346",3733.8499999999995 - 3833.8499999999995,"HSR Layout,Bengaluru",WIFI,5db03bef33a2a1c595c1853b,1,1,app,DashboardOnionActivity,6080861765612167875,1574934734,26
+App_Open,App,"12.904112,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db03bef33a2a1c595c1853b,1,1,app,,,1574941366,27
+App_Open,App,"12.904304,77.64914",DashboardOnionActivity,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853b,,1,app,,,,
+ScanPay_Button_Press,Payment_ScanPay,"12.904157,77.64839",3733.8499999999995 - 3833.8499999999995,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853b,1,1,app,DashboardOnionActivity,4864167515236242714,1574944373,28
+Pay_Button_Press,Payment_ScanPay,"12.904157,77.64839",40.0 - 140.0,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853b,1,1,app,PayOnionActivity,4864167515236242716,1574944373,28
+Txn_Status_Change,Payment_ScanPay,"12.904157,77.64839",processing,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853b,1,1,app,TransactionConfirmOnionActivity,4864167515236242717,1574944373,28
+Txn_Status_Change,Payment_ScanPay,"12.904157,77.64839",processing,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853b,1,1,app,TransactionConfirmOnionActivity,4864167515236242717,1574944373,28
+Txn_Status_Change,Payment_ScanPay,"12.904157,77.64839",success,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853b,1,1,app,TransactionConfirmOnionActivity,4864167515236242717,1574944373,28
+Txn_Status_Button_Press,Payment_ScanPay,"12.904157,77.64839",,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853b,1,1,app,TransactionConfirmOnionActivity,4864167515236242717,1574944373,28
+App_Open,App,"12.904119,77.64834",DashboardOnionActivity,"HSR Layout,Bengaluru",4G,5db03bee33a2a1c595c18538,1,1,app,,,1574928132,5
+ScanPay_Button_Press,Payment_ScanPay,"12.904119,77.64834",3130.0 - 3229.9999999999995,"HSR Layout,Bengaluru",4G,5db03bee33a2a1c595c18538,1,1,app,,,1574928132,5
+Pay_Remarks_Fill,Payment_ScanPay,"12.905,77.64895",,"HSR Layout,Bengaluru",4G,5db03bee33a2a1c595c18538,1,1,app,PayOnionActivity,-2757505480813037126,1574928132,5
+Pay_Button_Press,Payment_ScanPay,"12.905,77.64895",263.0 - 363.0,"HSR Layout,Bengaluru",4G,5db03bee33a2a1c595c18538,1,1,app,PayOnionActivity,-2757505480813037126,1574928132,5
+Txn_Status_Change,Payment_ScanPay,"12.905,77.64895",processing,"HSR Layout,Bengaluru",4G,5db03bee33a2a1c595c18538,1,1,app,TransactionConfirmOnionActivity,-2757505480813037125,1574928132,5
+Txn_Status_Change,Payment_ScanPay,"12.905,77.64895",processing,"HSR Layout,Bengaluru",4G,5db03bee33a2a1c595c18538,1,1,app,TransactionConfirmOnionActivity,-2757505480813037125,1574928132,5
+Txn_Status_Change,Payment_ScanPay,"12.905,77.64895",success,"HSR Layout,Bengaluru",4G,5db03bee33a2a1c595c18538,1,1,app,TransactionConfirmOnionActivity,-2757505480813037125,1574928132,5
+Txn_Status_Button_Press,Payment_ScanPay,"12.905,77.64895",,"HSR Layout,Bengaluru",4G,5db03bee33a2a1c595c18538,1,1,app,TransactionConfirmOnionActivity,-2757505480813037125,1574928132,5
+App_Open,App,"12.904102,77.64836",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5dc566a650026bf21d01dad5,1,1,app,,,1574928249,13
+App_Open,App,"12.904098,77.6483",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5dc566a650026bf21d01dad5,1,1,app,,,1574928249,13
+ScanPay_Button_Press,Payment_ScanPay,"12.904098,77.6483",4581.0 - 4681.0,"HSR Layout,Bengaluru",4G,5dc566a650026bf21d01dad5,1,1,app,DashboardOnionActivity,8033114645923631544,1574928249,13
+Pay_Button_Press,Payment_ScanPay,"12.904098,77.6483",120.0 - 220.00000000000003,"HSR Layout,Bengaluru",4G,5dc566a650026bf21d01dad5,1,1,app,PayOnionActivity,8033114645923631546,1574928249,13
+Txn_Status_Change,Payment_ScanPay,"12.904098,77.6483",processing,"HSR Layout,Bengaluru",4G,5dc566a650026bf21d01dad5,1,1,app,TransactionConfirmOnionActivity,8033114645923631547,1574928249,13
+Txn_Status_Change,Payment_ScanPay,"12.904098,77.6483",processing,"HSR Layout,Bengaluru",4G,5dc566a650026bf21d01dad5,1,1,app,TransactionConfirmOnionActivity,8033114645923631547,1574928249,13
+Txn_Status_Change,Payment_ScanPay,"12.904098,77.6483",success,"HSR Layout,Bengaluru",4G,5dc566a650026bf21d01dad5,1,1,app,TransactionConfirmOnionActivity,8033114645923631547,1574928249,13
+Txn_Status_Button_Press,Payment_ScanPay,"12.904098,77.6483",,"HSR Layout,Bengaluru",4G,5dc566a650026bf21d01dad5,1,1,app,TransactionConfirmOnionActivity,8033114645923631547,1574928249,13
+App_Open,App,"12.904098,77.6483",DashboardOnionActivity,"HSR Layout,Bengaluru",4G,5dc566a650026bf21d01dad5,1,1,app,,,1574939658,14
+App_Open,App,"12.90412,77.64835",CreditApplyOnionActivity,"HSR Layout,Bengaluru",4G,5db03bf033a2a1c595c18543,,1,app,,,,
+Unlock_Button_Press,Onboarding_Offer,"12.923093,77.6514",Start,"HSR Layout,Bengaluru",4G,5db03bf033a2a1c595c18543,1,1,app,CreditApplyOnionActivity,-2130811809608461198,1574926900,4
+Unlock_Button_Press,Onboarding_Offer,"12.923093,77.6514",Loan Success,"HSR Layout,Bengaluru",4G,5db03bf033a2a1c595c18543,1,1,app,,,1574926900,4
+App_Open,App,"12.904103,77.64835",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db03cd433a2a1c595c1855c,1,1,app,,,1574927345,5
+App_Open,App,"12.994455,77.533806",DashboardOnionActivity,"Basaweshwara Nagar,Bengaluru",WIFI,5db03cd433a2a1c595c1855c,1,1,app,,,1574942063,6
+TransferBank_Button_Press,Payment_TransferBank,"12.994457,77.5338",3379.9999999999995 - 3479.9999999999995,"Basaweshwara Nagar,Bengaluru",WIFI,5db03cd433a2a1c595c1855c,1,1,app,DashboardOnionActivity,2627199514008776495,1574942063,6
+Pay_Button_Press,Payment_TransferBank,"12.994457,77.5338",1.0 - 101.0,"Basaweshwara Nagar,Bengaluru",WIFI,5db03cd433a2a1c595c1855c,1,1,app,BankTransferOnionActivity,2627199514008776496,1574942063,6
+Txn_Status_Change,Payment_TransferBank,"12.994434,77.53378",processing,"Basaweshwara Nagar,Bengaluru",WIFI,5db03cd433a2a1c595c1855c,1,1,app,TransactionConfirmOnionActivity,2627199514008776497,1574942063,6
+Txn_Status_Change,Payment_TransferBank,"12.994434,77.53378",failed,"Basaweshwara Nagar,Bengaluru",WIFI,5db03cd433a2a1c595c1855c,1,1,app,TransactionConfirmOnionActivity,2627199514008776497,1574942063,6
+Txn_Status_Button_Press,Payment_TransferBank,"12.994434,77.53378",,"Basaweshwara Nagar,Bengaluru",WIFI,5db03cd433a2a1c595c1855c,1,1,app,TransactionConfirmOnionActivity,2627199514008776497,1574942063,6
+ScanPay_Button_Press,Payment_ScanPay,"12.994434,77.53378",3379.9999999999995 - 3479.9999999999995,"Basaweshwara Nagar,Bengaluru",WIFI,5db03cd433a2a1c595c1855c,1,1,app,,,1574942063,6
+Pay_Remarks_Fill,Payment_ScanPay,"12.994434,77.53378",,"Basaweshwara Nagar,Bengaluru",WIFI,5db03cd433a2a1c595c1855c,1,1,app,PayOnionActivity,2627199514008776499,1574942063,6
+Pay_Button_Press,Payment_ScanPay,"12.994434,77.53378",1.0 - 101.0,"Basaweshwara Nagar,Bengaluru",WIFI,5db03cd433a2a1c595c1855c,1,1,app,PayOnionActivity,2627199514008776499,1574942063,6
+Txn_Status_Change,Payment_ScanPay,"12.994434,77.53378",processing,"Basaweshwara Nagar,Bengaluru",WIFI,5db03cd433a2a1c595c1855c,1,1,app,TransactionConfirmOnionActivity,2627199514008776500,1574942063,6
+Txn_Status_Change,Payment_ScanPay,"12.994434,77.53378",failed,"Basaweshwara Nagar,Bengaluru",WIFI,5db03cd433a2a1c595c1855c,1,1,app,TransactionConfirmOnionActivity,2627199514008776500,1574942063,6
+Txn_Status_Button_Press,Payment_ScanPay,"12.994434,77.53378",,"Basaweshwara Nagar,Bengaluru",WIFI,5db03cd433a2a1c595c1855c,1,1,app,TransactionConfirmOnionActivity,2627199514008776500,1574942063,6
+App_Open,App,"12.904171,77.64823",DashboardOnionActivity,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853a,1,1,app,,,1574927869,34
+ScanPay_Button_Press,Payment_ScanPay,"12.904304,77.64914",2517.0 - 2617.0,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853a,1,1,app,DashboardOnionActivity,-4248308784848048870,1574927869,34
+Pay_Remarks_Fill,Payment_ScanPay,"12.904304,77.64914",,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853a,1,1,app,PayOnionActivity,-4248308784848048868,1574927869,34
+Pay_Button_Press,Payment_ScanPay,"12.904304,77.64914",100.0 - 200.0,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853a,1,1,app,PayOnionActivity,-4248308784848048868,1574927869,34
+Txn_Status_Change,Payment_ScanPay,"12.904304,77.64914",processing,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853a,1,1,app,TransactionConfirmOnionActivity,-4248308784848048867,1574927869,34
+Txn_Status_Change,Payment_ScanPay,"12.904304,77.64914",processing,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853a,1,1,app,TransactionConfirmOnionActivity,-4248308784848048867,1574927869,34
+Txn_Status_Change,Payment_ScanPay,"12.904304,77.64914",success,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853a,1,1,app,TransactionConfirmOnionActivity,-4248308784848048867,1574927869,34
+App_Open,App,"12.904108,77.64838",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,,,1574913052,43
+TransferBank_Button_Press,Payment_TransferBank,"12.911546,77.62402",53.54000000000002 - 153.54000000000002,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,DashboardOnionActivity,9218698661844292967,1574913052,43
+Pay_Button_Press,Payment_TransferBank,"12.911546,77.62402",1.0 - 101.0,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,BankTransferOnionActivity,9218698661844292968,1574913052,43
+Txn_Status_Change,Payment_TransferBank,"12.911546,77.62402",processing,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,9218698661844292969,1574913052,43
+Txn_Status_Change,Payment_TransferBank,"12.911546,77.62402",success,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,9218698661844292969,1574913052,43
+TransferBank_Button_Press,Payment_TransferBank,"12.911546,77.62402",52.54000000000002 - 152.54000000000002,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,DashboardOnionActivity,9218698661844292967,1574913052,43
+Pay_Button_Press,Payment_TransferBank,"12.911546,77.62402",1.0 - 101.0,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,BankTransferOnionActivity,9218698661844292970,1574913052,43
+Txn_Status_Change,Payment_TransferBank,"12.911546,77.62402",processing,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,9218698661844292971,1574913052,43
+Txn_Status_Change,Payment_TransferBank,"12.911546,77.62402",success,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,,,1574913052,43
+Txn_Status_Button_Press,Payment_TransferBank,"12.911546,77.62402",,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,9218698661844292971,1574913052,43
+TransferBank_Button_Press,Payment_TransferBank,"12.911546,77.62402",51.54000000000002 - 151.54000000000002,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,DashboardOnionActivity,9218698661844292967,1574913052,43
+ScanPay_Button_Press,Payment_ScanPay,"12.911546,77.62402",51.54000000000002 - 151.54000000000002,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,DashboardOnionActivity,9218698661844292967,1574913052,43
+App_Open,App,"12.911546,77.62402",DashboardOnionActivity,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,,,1574913052,43
+ScanPay_Button_Press,Payment_ScanPay,"12.911546,77.62402",51.54000000000002 - 151.54000000000002,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,DashboardOnionActivity,9218698661844292975,1574913052,43
+TransferBank_Button_Press,Payment_TransferBank,"12.911546,77.62402",51.54000000000002 - 151.54000000000002,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,DashboardOnionActivity,9218698661844292975,1574913052,43
+App_Open,App,"12.911546,77.62402",DashboardOnionActivity,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,,1,app,,,,
+TransferBank_Button_Press,Payment_TransferBank,"12.904103,77.64835",51.54000000000002 - 151.54000000000002,"HSR Layout,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,DashboardOnionActivity,5940204559548700267,1574925450,44
+Pay_Button_Press,Payment_TransferBank,"12.904103,77.64835",1.0 - 101.0,"HSR Layout,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,BankTransferOnionActivity,5940204559548700268,1574925450,44
+Txn_Status_Change,Payment_TransferBank,"12.904103,77.64835",processing,"HSR Layout,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,5940204559548700269,1574925450,44
+Txn_Status_Change,Payment_TransferBank,"12.904103,77.64835",success,"HSR Layout,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,5940204559548700269,1574925450,44
+Txn_Status_Button_Press,Payment_TransferBank,"12.904103,77.64835",,"HSR Layout,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,5940204559548700269,1574925450,44
+TransferBank_Button_Press,Payment_TransferBank,"12.904103,77.64835",50.54000000000002 - 150.54000000000002,"HSR Layout,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,DashboardOnionActivity,5940204559548700267,1574925450,44
+Pay_Button_Press,Payment_TransferBank,"12.904103,77.64835",2.0 - 102.0,"HSR Layout,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,BankTransferOnionActivity,5940204559548700270,1574925450,44
+Txn_Status_Change,Payment_TransferBank,"12.904103,77.64835",processing,"HSR Layout,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,5940204559548700271,1574925450,44
+Txn_Status_Change,Payment_TransferBank,"12.904103,77.64835",success,"HSR Layout,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,,,1574925450,44
+Txn_Status_Change,Payment_TransferBank,"12.904103,77.64835",processing,"HSR Layout,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,5940204559548700271,1574940795,45
+Txn_Status_Change,Payment_TransferBank,"12.904111,77.648346",success,"HSR Layout,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,5940204559548700271,1574940795,45
+Txn_Status_Button_Press,Payment_TransferBank,"12.904111,77.648346",,"HSR Layout,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,5940204559548700271,1574940795,45
+App_Open,App,"12.904111,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",2G,5db031c133a2a1c595c1851b,1,1,app,,,1574940795,45
+ScanPay_Button_Press,Payment_ScanPay,"12.904229,77.64855",46.540000915527344 - 146.54000091552734,"Unknown,Unknown",2G,5db031c133a2a1c595c1851b,1,1,app,DashboardOnionActivity,-2395816838081319817,1574940795,45
+Pay_Button_Press,Payment_ScanPay,"12.904229,77.64855",20.0 - 120.0,"HSR Layout,Bengaluru",2G,5db031c133a2a1c595c1851b,1,1,app,PayOnionActivity,-2395816838081319815,1574940795,45
+Txn_Status_Change,Payment_ScanPay,"12.904229,77.64855",processing,"HSR Layout,Bengaluru",2G,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,-2395816838081319814,1574940795,45
+Txn_Status_Change,Payment_ScanPay,"12.904229,77.64855",processing,"HSR Layout,Bengaluru",2G,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,-2395816838081319814,1574940795,45
+Txn_Status_Change,Payment_ScanPay,"12.904229,77.64855",success,"HSR Layout,Bengaluru",2G,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,-2395816838081319814,1574940795,45
+Txn_Status_Button_Press,Payment_ScanPay,"12.904229,77.64855",,"HSR Layout,Bengaluru",2G,5db031c133a2a1c595c1851b,1,1,app,TransactionConfirmOnionActivity,-2395816838081319814,1574940795,45
+App_Open,App,"12.9038725,77.6489",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,,,1574956206,46
+App_Open,App,"12.911546,77.62402",OnionLoginActivity,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,,,1574956206,46
+Login,Onboarding_PhoneVerification,"12.911546,77.62402",AutoSuggest,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,,,1574956206,46
+LoginResponse,Onboarding_PhoneVerification,"12.911546,77.62402",Success,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,,,1574956206,46
+TransferBank_Button_Press,Payment_TransferBank,"12.911546,77.62402",26.54000000000002 - 126.54,"Bommanahalli,Bengaluru",WIFI,5db031c133a2a1c595c1851b,1,1,app,DashboardOnionActivity,2989151729861465776,1574956206,46
+App_Open,App,"12.904104,77.64835",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5dca44ec6f06dfc12b1e5b73,1,1,app,,,1574938675,17
+App_Open,App,"28.589586,77.25092",DashboardOnionActivity,"Nizamuddin East,New Delhi",4G,5db03cd433a2a1c595c1855d,1,1,app,,,1574928179,5
+ScanPay_Button_Press,Payment_ScanPay,"28.60065,77.21625",4000.0 - 4100.0,"null,New Delhi",4G,5db03cd433a2a1c595c1855d,1,1,app,DashboardOnionActivity,715077957107317737,1574928179,5
+App_Open,App,"12.904554,77.64699",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574940089,45
+App_Open,App,"12.904111,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574940089,45
+App_Open,App,"12.904102,77.64833",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574940089,45
+App_Open,App,"12.904109,77.64834",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,,1,app,,,,
+TransferBank_Button_Press,Payment_TransferBank,"12.904112,77.64832",4994.19 - 5094.19,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,DashboardOnionActivity,-4920896133748359778,1574943382,46
+TransferBank_Button_Press,Payment_TransferBank,"12.904112,77.64832",4994.19 - 5094.19,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,DashboardOnionActivity,-4920896133748359778,1574943382,46
+App_Open,App,"12.904112,77.64832",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574943382,46
+App_Open,App,"12.904112,77.64832",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574943382,46
+App_Open,App,"12.904112,77.64832",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574943382,46
+App_Open,App,"12.904112,77.64832",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574943382,46
+App_Open,App,"12.904112,77.64832",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574946539,47
+App_Open,App,"12.904111,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574946539,47
+App_Open,App,"12.904111,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574946539,47
+App_Open,App,"12.904111,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574946539,47
+App_Open,App,"12.904111,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574946539,47
+App_Open,App,"12.904111,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574946539,47
+App_Open,App,"12.904111,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574946539,47
+App_Open,App,"12.904111,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574946539,47
+App_Open,App,"12.904111,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574946539,47
+App_Open,App,"12.904111,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574946539,47
+App_Open,App,"12.904111,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574946539,47
+App_Open,App,"12.904111,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574946539,47
+TransferBank_Button_Press,Payment_TransferBank,"12.904111,77.648346",4994.19 - 5094.19,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,DashboardOnionActivity,3827170602506387822,1574946539,47
+ScanPay_Button_Press,Payment_ScanPay,"12.904111,77.648346",4994.19 - 5094.19,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,DashboardOnionActivity,3827170602506387822,1574946539,47
+Pay_Remarks_Fill,Payment_ScanPay,"12.904111,77.648346",,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,PayOnionActivity,3827170602506387825,1574946539,47
+Pay_Button_Press,Payment_ScanPay,"12.904111,77.648346",1.0 - 101.0,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,PayOnionActivity,3827170602506387825,1574946539,47
+Txn_Status_Change,Payment_ScanPay,"12.904111,77.648346",processing,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,TransactionConfirmOnionActivity,3827170602506387826,1574946539,47
+Txn_Status_Change,Payment_ScanPay,"12.904111,77.648346",processing,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,TransactionConfirmOnionActivity,3827170602506387826,1574946539,47
+Txn_Status_Change,Payment_ScanPay,"12.904111,77.648346",success,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,TransactionConfirmOnionActivity,3827170602506387826,1574946539,47
+Txn_Status_Button_Press,Payment_ScanPay,"12.904111,77.648346",,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,TransactionConfirmOnionActivity,3827170602506387826,1574946539,47
+App_Open,App,"12.904111,77.648346",DashboardOnionActivity,"HSR Layout,Bengaluru",WIFI,5db0376233a2a1c595c1852a,1,1,app,,,1574946539,47
+App_Open,App,"12.904103,77.64835",DashboardOnionActivity,"HSR Layout,Bengaluru",4G,5dc94b6750026bf21d01db10,1,1,app,,,1574938878,24
+ScanPay_Button_Press,Payment_ScanPay,"12.904112,77.64836",4275.0 - 4375.0,"HSR Layout,Bengaluru",4G,5dc94b6750026bf21d01db10,1,1,app,DashboardOnionActivity,-8020141430137674688,1574938878,24
+Pay_Button_Press,Payment_ScanPay,"12.904112,77.64836",35.0 - 135.0,"HSR Layout,Bengaluru",4G,5dc94b6750026bf21d01db10,1,1,app,PayOnionActivity,-8020141430137674686,1574938878,24
+Txn_Status_Change,Payment_ScanPay,"12.904112,77.64836",processing,"HSR Layout,Bengaluru",4G,5dc94b6750026bf21d01db10,1,1,app,TransactionConfirmOnionActivity,-8020141430137674685,1574938878,24
+Txn_Status_Change,Payment_ScanPay,"12.904112,77.64836",processing,"HSR Layout,Bengaluru",4G,5dc94b6750026bf21d01db10,1,1,app,TransactionConfirmOnionActivity,-8020141430137674685,1574938878,24
+Txn_Status_Change,Payment_ScanPay,"12.904112,77.64836",success,"HSR Layout,Bengaluru",4G,5dc94b6750026bf21d01db10,1,1,app,TransactionConfirmOnionActivity,-8020141430137674685,1574938878,24
+Txn_Status_Button_Press,Payment_ScanPay,"12.904112,77.64836",,"HSR Layout,Bengaluru",4G,5dc94b6750026bf21d01db10,1,1,app,TransactionConfirmOnionActivity,-8020141430137674685,1574938878,24
+App_Open,App,"12.907483,77.649185",DashboardOnionActivity,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,,,1574919137,13
+ScanPay_Button_Press,Payment_ScanPay,"12.904005,77.64879",3007.0 - 3107.0,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,DashboardOnionActivity,-4972827464154192180,1574919137,13
+Pay_Button_Press,Payment_ScanPay,"12.904005,77.64879",70.0 - 170.0,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,PayOnionActivity,-4972827464154192178,1574919137,13
+Txn_Status_Change,Payment_ScanPay,"12.904005,77.64879",processing,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,TransactionConfirmOnionActivity,-4972827464154192177,1574919137,13
+Txn_Status_Change,Payment_ScanPay,"12.904005,77.64879",processing,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,TransactionConfirmOnionActivity,-4972827464154192177,1574919137,13
+Txn_Status_Change,Payment_ScanPay,"12.904005,77.64879",success,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,TransactionConfirmOnionActivity,-4972827464154192177,1574919137,13
+Txn_Status_Button_Press,Payment_ScanPay,"12.904005,77.64879",,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,TransactionConfirmOnionActivity,-4972827464154192177,1574919137,13
+ScanPay_Button_Press,Payment_ScanPay,"12.903851,77.64868",2937.0 - 3037.0,"HSR Layout,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,DashboardOnionActivity,-4972827464154192180,1574930237,14
+Pay_Remarks_Fill,Payment_ScanPay,"12.969888,77.597435",,"Ashok Nagar,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,PayOnionActivity,616364909132011957,1574930237,14
+Pay_Button_Press,Payment_ScanPay,"12.969888,77.597435",761.0 - 861.0,"Ashok Nagar,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,PayOnionActivity,616364909132011957,1574930237,14
+Txn_Status_Change,Payment_ScanPay,"12.969888,77.597435",processing,"Ashok Nagar,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,TransactionConfirmOnionActivity,616364909132011958,1574930237,14
+Txn_Status_Change,Payment_ScanPay,"12.969888,77.597435",processing,"Ashok Nagar,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,TransactionConfirmOnionActivity,616364909132011958,1574930237,14
+Txn_Status_Change,Payment_ScanPay,"12.969888,77.597435",success,"Ashok Nagar,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,TransactionConfirmOnionActivity,616364909132011958,1574930237,14
+Txn_Status_Button_Press,Payment_ScanPay,"12.969888,77.597435",,"Ashok Nagar,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,TransactionConfirmOnionActivity,616364909132011958,1574930237,14
+App_Open,App,"12.971221,77.59816",DashboardOnionActivity,"null,Bengaluru",4G,5db03bef33a2a1c595c1853f,1,1,app,,,1574934439,15
